@@ -27,6 +27,7 @@ Here are some screenshots of the app working!
 ![Mew!](https://github.com/Rafael-aaf/Pokemon-Project/blob/42e447521e04dda178399d94b4df554ed7b6f859/screenshots/pokemon_api_mew.jpg)
 
 A small issue that appeared was when a pokémon had a primary color of black. The text is in black, so if the background was also in black the text wouldn't be readable! For that case, I made the color white for all the pokémon with a black primary color.
+
 ![Umbreon!](https://github.com/Rafael-aaf/Pokemon-Project/blob/42e447521e04dda178399d94b4df554ed7b6f859/screenshots/pokemon_api_umbreon.jpg)
 
 
